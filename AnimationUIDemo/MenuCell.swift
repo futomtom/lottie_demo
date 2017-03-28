@@ -29,7 +29,7 @@ class MenuCell: UITableViewCell {
             AnimationView = LOTAnimationView(name: animationName)
             AnimationView.contentMode = .scaleToFill
      
-            AnimationView.frame = CGRect(x: 10, y: 5, width: 60, height: 60)
+            AnimationView.frame = CGRect(x: 10, y: 5, width: 80, height: 80)
             self.contentView.addSubview(AnimationView)
      
 

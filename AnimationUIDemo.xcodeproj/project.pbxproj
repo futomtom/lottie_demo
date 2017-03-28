@@ -14,15 +14,16 @@
 		FA5C8F601E89FADA002440C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F5E1E89FADA002440C7 /* LaunchScreen.storyboard */; };
 		FA5C8F681E89FC31002440C7 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C8F671E89FC31002440C7 /* MenuCell.swift */; };
 		FA5C8F6A1E89FC75002440C7 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C8F691E89FC75002440C7 /* TableViewController.swift */; };
-		FA5C8F711E8A0A79002440C7 /* champion.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F701E8A0A79002440C7 /* champion.json */; };
-		FA5C8F731E8A0A82002440C7 /* calendar.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F721E8A0A82002440C7 /* calendar.json */; };
-		FA5C8F751E8A0A8B002440C7 /* bar-chat.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F741E8A0A8B002440C7 /* bar-chat.json */; };
-		FA5C8F771E8A0A9E002440C7 /* contacts.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F761E8A0A9E002440C7 /* contacts.json */; };
-		FA5C8F791E8A0AB2002440C7 /* creditcard.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F781E8A0AB2002440C7 /* creditcard.json */; };
-		FA5C8F7B1E8A0AB8002440C7 /* chart.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F7A1E8A0AB8002440C7 /* chart.json */; };
-		FA5C8F7D1E8A0B96002440C7 /* chat.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F7C1E8A0B96002440C7 /* chat.json */; };
-		FA5C8F7F1E8A0CD9002440C7 /* PinJump.json in Resources */ = {isa = PBXBuildFile; fileRef = FA5C8F7E1E8A0CD9002440C7 /* PinJump.json */; };
 		FA5C8F811E8A1CA2002440C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C8F801E8A1CA2002440C7 /* ViewController.swift */; };
+		FAC86C541E8AE321004EAE10 /* chart.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C4B1E8AE321004EAE10 /* chart.json */; };
+		FAC86C551E8AE321004EAE10 /* creditcard.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C4C1E8AE321004EAE10 /* creditcard.json */; };
+		FAC86C561E8AE321004EAE10 /* champion.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C4D1E8AE321004EAE10 /* champion.json */; };
+		FAC86C571E8AE321004EAE10 /* submit_button.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C4E1E8AE321004EAE10 /* submit_button.json */; };
+		FAC86C581E8AE321004EAE10 /* chat.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C4F1E8AE321004EAE10 /* chat.json */; };
+		FAC86C591E8AE321004EAE10 /* TwitterHeart.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C501E8AE321004EAE10 /* TwitterHeart.json */; };
+		FAC86C5A1E8AE321004EAE10 /* contacts.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C511E8AE321004EAE10 /* contacts.json */; };
+		FAC86C5B1E8AE321004EAE10 /* bar-chat.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C521E8AE321004EAE10 /* bar-chat.json */; };
+		FAC86C5C1E8AE321004EAE10 /* calendar.json in Resources */ = {isa = PBXBuildFile; fileRef = FAC86C531E8AE321004EAE10 /* calendar.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,15 +38,16 @@
 		FA5C8F611E89FADA002440C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA5C8F671E89FC31002440C7 /* MenuCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
 		FA5C8F691E89FC75002440C7 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
-		FA5C8F701E8A0A79002440C7 /* champion.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = champion.json; sourceTree = "<group>"; };
-		FA5C8F721E8A0A82002440C7 /* calendar.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = calendar.json; sourceTree = "<group>"; };
-		FA5C8F741E8A0A8B002440C7 /* bar-chat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bar-chat.json"; sourceTree = "<group>"; };
-		FA5C8F761E8A0A9E002440C7 /* contacts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = contacts.json; sourceTree = "<group>"; };
-		FA5C8F781E8A0AB2002440C7 /* creditcard.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = creditcard.json; sourceTree = "<group>"; };
-		FA5C8F7A1E8A0AB8002440C7 /* chart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chart.json; sourceTree = "<group>"; };
-		FA5C8F7C1E8A0B96002440C7 /* chat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chat.json; sourceTree = "<group>"; };
-		FA5C8F7E1E8A0CD9002440C7 /* PinJump.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = PinJump.json; path = AnimationUIDemo/PinJump.json; sourceTree = "<group>"; };
 		FA5C8F801E8A1CA2002440C7 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FAC86C4B1E8AE321004EAE10 /* chart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chart.json; sourceTree = "<group>"; };
+		FAC86C4C1E8AE321004EAE10 /* creditcard.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = creditcard.json; sourceTree = "<group>"; };
+		FAC86C4D1E8AE321004EAE10 /* champion.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = champion.json; sourceTree = "<group>"; };
+		FAC86C4E1E8AE321004EAE10 /* submit_button.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = submit_button.json; sourceTree = "<group>"; };
+		FAC86C4F1E8AE321004EAE10 /* chat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chat.json; sourceTree = "<group>"; };
+		FAC86C501E8AE321004EAE10 /* TwitterHeart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TwitterHeart.json; sourceTree = "<group>"; };
+		FAC86C511E8AE321004EAE10 /* contacts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = contacts.json; sourceTree = "<group>"; };
+		FAC86C521E8AE321004EAE10 /* bar-chat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bar-chat.json"; sourceTree = "<group>"; };
+		FAC86C531E8AE321004EAE10 /* calendar.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = calendar.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,14 +108,15 @@
 		FA5C8F6F1E8A0A5E002440C7 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
-				FA5C8F741E8A0A8B002440C7 /* bar-chat.json */,
-				FA5C8F761E8A0A9E002440C7 /* contacts.json */,
-				FA5C8F7E1E8A0CD9002440C7 /* PinJump.json */,
-				FA5C8F721E8A0A82002440C7 /* calendar.json */,
-				FA5C8F7C1E8A0B96002440C7 /* chat.json */,
-				FA5C8F781E8A0AB2002440C7 /* creditcard.json */,
-				FA5C8F7A1E8A0AB8002440C7 /* chart.json */,
-				FA5C8F701E8A0A79002440C7 /* champion.json */,
+				FAC86C4B1E8AE321004EAE10 /* chart.json */,
+				FAC86C4C1E8AE321004EAE10 /* creditcard.json */,
+				FAC86C4D1E8AE321004EAE10 /* champion.json */,
+				FAC86C4E1E8AE321004EAE10 /* submit_button.json */,
+				FAC86C4F1E8AE321004EAE10 /* chat.json */,
+				FAC86C501E8AE321004EAE10 /* TwitterHeart.json */,
+				FAC86C511E8AE321004EAE10 /* contacts.json */,
+				FAC86C521E8AE321004EAE10 /* bar-chat.json */,
+				FAC86C531E8AE321004EAE10 /* calendar.json */,
 			);
 			name = Animation;
 			sourceTree = "<group>";
@@ -189,17 +192,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA5C8F7B1E8A0AB8002440C7 /* chart.json in Resources */,
-				FA5C8F7F1E8A0CD9002440C7 /* PinJump.json in Resources */,
-				FA5C8F7D1E8A0B96002440C7 /* chat.json in Resources */,
-				FA5C8F711E8A0A79002440C7 /* champion.json in Resources */,
+				FAC86C5A1E8AE321004EAE10 /* contacts.json in Resources */,
+				FAC86C5B1E8AE321004EAE10 /* bar-chat.json in Resources */,
+				FAC86C571E8AE321004EAE10 /* submit_button.json in Resources */,
+				FAC86C581E8AE321004EAE10 /* chat.json in Resources */,
+				FAC86C541E8AE321004EAE10 /* chart.json in Resources */,
 				FA5C8F601E89FADA002440C7 /* LaunchScreen.storyboard in Resources */,
-				FA5C8F771E8A0A9E002440C7 /* contacts.json in Resources */,
 				FA5C8F5D1E89FADA002440C7 /* Assets.xcassets in Resources */,
-				FA5C8F791E8A0AB2002440C7 /* creditcard.json in Resources */,
-				FA5C8F751E8A0A8B002440C7 /* bar-chat.json in Resources */,
+				FAC86C5C1E8AE321004EAE10 /* calendar.json in Resources */,
+				FAC86C551E8AE321004EAE10 /* creditcard.json in Resources */,
+				FAC86C591E8AE321004EAE10 /* TwitterHeart.json in Resources */,
+				FAC86C561E8AE321004EAE10 /* champion.json in Resources */,
 				FA5C8F5B1E89FADA002440C7 /* Main.storyboard in Resources */,
-				FA5C8F731E8A0A82002440C7 /* calendar.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
