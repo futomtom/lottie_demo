@@ -1,0 +1,15 @@
+PODS:
+  - lottie-ios (1.5.1)
+  - SideMenu (2.3.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - SideMenu
+
+SPEC CHECKSUMS:
+  lottie-ios: f680a7c4cb7a567ecf258fde0f967913aff111b8
+  SideMenu: 43d092cf615cf472f105c5b9867a21beff9fc269
+
+PODFILE CHECKSUM: 8835959299d9d35de37d6f5d069bfff4ba8adf90
+
+COCOAPODS: 1.1.1
